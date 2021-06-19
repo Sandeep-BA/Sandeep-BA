@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandeepBelgavi
-- 👀 I’m interested in Coding \n
+- 👀 I’m interested in Coding
 - Would like to add as much coding examples of data structures and algorithms as possible so that it will help people in need to learn in a simple and easy way
 
 <!---
